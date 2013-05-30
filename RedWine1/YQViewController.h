@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface YQViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIButton *ScanBtn;
 
 @end

@@ -18,6 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [self.ScanBtn setBackgroundImage:[UIImage imageNamed:@"camera_button_take.png"] forState:UIControlStateNormal];
+    [self.ScanBtn setBackgroundImage:[UIImage imageNamed:@"tabBar_cameraButton_ready_matte.png"] forState:UIControlStateHighlighted];
+    
 }
 
 - (void)didReceiveMemoryWarning

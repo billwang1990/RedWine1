@@ -17,7 +17,37 @@
 		235BD05417523DB900ACB2EA /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD05317523DB900ACB2EA /* Default@2x.png */; };
 		235BD05617523DBA00ACB2EA /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD05517523DB900ACB2EA /* Default-568h@2x.png */; };
 		235BD05917523DBA00ACB2EA /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 235BD05717523DBA00ACB2EA /* MainStoryboard.storyboard */; };
-		235BD05C17523DBA00ACB2EA /* YQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 235BD05B17523DBA00ACB2EA /* YQViewController.m */; };
+		235BD06717523F2400ACB2EA /* camera_button_take.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD06317523F2400ACB2EA /* camera_button_take.png */; };
+		235BD06817523F2400ACB2EA /* camera_button_take@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD06417523F2400ACB2EA /* camera_button_take@2x.png */; };
+		235BD06917523F2400ACB2EA /* tabBar_cameraButton_ready_matte.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD06517523F2400ACB2EA /* tabBar_cameraButton_ready_matte.png */; };
+		235BD06A17523F2400ACB2EA /* tabBar_cameraButton_ready_matte@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD06617523F2400ACB2EA /* tabBar_cameraButton_ready_matte@2x.png */; };
+		235BD0721752448700ACB2EA /* YQCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 235BD0711752448700ACB2EA /* YQCell.m */; };
+		235BD0751752494F00ACB2EA /* bg_nav.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD0731752494F00ACB2EA /* bg_nav.png */; };
+		235BD0761752494F00ACB2EA /* bg_nav@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD0741752494F00ACB2EA /* bg_nav@2x.png */; };
+		235BD07817524BBA00ACB2EA /* wine.png in Resources */ = {isa = PBXBuildFile; fileRef = 235BD07717524BBA00ACB2EA /* wine.png */; };
+		23BD230717545927008EE60A /* YQWine.m in Sources */ = {isa = PBXBuildFile; fileRef = 23BD230617545927008EE60A /* YQWine.m */; };
+		23BD230A17547DF1008EE60A /* cell.png in Resources */ = {isa = PBXBuildFile; fileRef = 23BD230817547DF1008EE60A /* cell.png */; };
+		23BD230B17547DF1008EE60A /* cell@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 23BD230917547DF1008EE60A /* cell@2x.png */; };
+		23BD230D17548122008EE60A /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 23BD230C17548122008EE60A /* camera.png */; };
+		23BD231817548B41008EE60A /* Comment.m in Sources */ = {isa = PBXBuildFile; fileRef = 23BD231717548B41008EE60A /* Comment.m */; };
+		23DADA2E1752E5BB0086C31E /* YQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA2B1752E5BB0086C31E /* YQViewController.m */; };
+		23DADA321752EA6F0086C31E /* YQSlideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA311752EA6F0086C31E /* YQSlideViewController.m */; };
+		23DADA351752EA770086C31E /* GGFullScreenImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA341752EA770086C31E /* GGFullScreenImageViewController.m */; };
+		23DADA3A1752EB880086C31E /* YQWineCommentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA391752EB880086C31E /* YQWineCommentViewController.m */; };
+		23DADA3D1752EC7C0086C31E /* YQCommentCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA3C1752EC7C0086C31E /* YQCommentCell.m */; };
+		23DADA401752EE300086C31E /* people.png in Resources */ = {isa = PBXBuildFile; fileRef = 23DADA3E1752EE300086C31E /* people.png */; };
+		23DADA411752EE300086C31E /* people@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 23DADA3F1752EE300086C31E /* people@2x.png */; };
+		23DADA451752F13B0086C31E /* YQWriteComment.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA441752F13B0086C31E /* YQWriteComment.m */; };
+		23DADA481752F49A0086C31E /* SZTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA471752F49A0086C31E /* SZTextView.m */; };
+		23DADA4A1752F7720086C31E /* go-home.png in Resources */ = {isa = PBXBuildFile; fileRef = 23DADA491752F7720086C31E /* go-home.png */; };
+		23DADA4E1752FB420086C31E /* comment-add.png in Resources */ = {isa = PBXBuildFile; fileRef = 23DADA4D1752FB420086C31E /* comment-add.png */; };
+		23DADA50175349B70086C31E /* b1bc7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23DADA4F175349B70086C31E /* b1bc7.jpg */; };
+		23DADA52175359320086C31E /* prize.png in Resources */ = {isa = PBXBuildFile; fileRef = 23DADA51175359320086C31E /* prize.png */; };
+		23DADA57175394CB0086C31E /* YQHonour.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA56175394CB0086C31E /* YQHonour.m */; };
+		23DADA5A1753955A0086C31E /* PhotoStackView.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA591753955A0086C31E /* PhotoStackView.m */; };
+		23DADA6F1753A0880086C31E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23DADA6E1753A0880086C31E /* QuartzCore.framework */; };
+		23DADA731753A1780086C31E /* UIScrollView+APParallaxHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DADA721753A1780086C31E /* UIScrollView+APParallaxHeader.m */; };
+		7BFA3261B30240EEB92E2692 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 425AB96AA0E5498984443F01 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,8 +65,52 @@
 		235BD05317523DB900ACB2EA /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		235BD05517523DB900ACB2EA /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		235BD05817523DBA00ACB2EA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		235BD05A17523DBA00ACB2EA /* YQViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YQViewController.h; sourceTree = "<group>"; };
-		235BD05B17523DBA00ACB2EA /* YQViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YQViewController.m; sourceTree = "<group>"; };
+		235BD06317523F2400ACB2EA /* camera_button_take.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera_button_take.png; sourceTree = "<group>"; };
+		235BD06417523F2400ACB2EA /* camera_button_take@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "camera_button_take@2x.png"; sourceTree = "<group>"; };
+		235BD06517523F2400ACB2EA /* tabBar_cameraButton_ready_matte.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabBar_cameraButton_ready_matte.png; sourceTree = "<group>"; };
+		235BD06617523F2400ACB2EA /* tabBar_cameraButton_ready_matte@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabBar_cameraButton_ready_matte@2x.png"; sourceTree = "<group>"; };
+		235BD0701752448700ACB2EA /* YQCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQCell.h; path = View/YQCell.h; sourceTree = "<group>"; };
+		235BD0711752448700ACB2EA /* YQCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQCell.m; path = View/YQCell.m; sourceTree = "<group>"; };
+		235BD0731752494F00ACB2EA /* bg_nav.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_nav.png; sourceTree = "<group>"; };
+		235BD0741752494F00ACB2EA /* bg_nav@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_nav@2x.png"; sourceTree = "<group>"; };
+		235BD07717524BBA00ACB2EA /* wine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wine.png; sourceTree = "<group>"; };
+		23BD230517545927008EE60A /* YQWine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQWine.h; sourceTree = "<group>"; };
+		23BD230617545927008EE60A /* YQWine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQWine.m; sourceTree = "<group>"; };
+		23BD230817547DF1008EE60A /* cell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.png; sourceTree = "<group>"; };
+		23BD230917547DF1008EE60A /* cell@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cell@2x.png"; sourceTree = "<group>"; };
+		23BD230C17548122008EE60A /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		23BD231617548B41008EE60A /* Comment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Comment.h; path = Model/Comment.h; sourceTree = "<group>"; };
+		23BD231717548B41008EE60A /* Comment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Comment.m; path = Model/Comment.m; sourceTree = "<group>"; };
+		23DADA2A1752E5BB0086C31E /* YQViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQViewController.h; sourceTree = "<group>"; };
+		23DADA2B1752E5BB0086C31E /* YQViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQViewController.m; sourceTree = "<group>"; };
+		23DADA301752EA6F0086C31E /* YQSlideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQSlideViewController.h; sourceTree = "<group>"; };
+		23DADA311752EA6F0086C31E /* YQSlideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQSlideViewController.m; sourceTree = "<group>"; };
+		23DADA331752EA770086C31E /* GGFullScreenImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GGFullScreenImageViewController.h; sourceTree = "<group>"; };
+		23DADA341752EA770086C31E /* GGFullScreenImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GGFullScreenImageViewController.m; sourceTree = "<group>"; };
+		23DADA381752EB880086C31E /* YQWineCommentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQWineCommentViewController.h; sourceTree = "<group>"; };
+		23DADA391752EB880086C31E /* YQWineCommentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQWineCommentViewController.m; sourceTree = "<group>"; };
+		23DADA3B1752EC7C0086C31E /* YQCommentCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQCommentCell.h; path = View/YQCommentCell.h; sourceTree = "<group>"; };
+		23DADA3C1752EC7C0086C31E /* YQCommentCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQCommentCell.m; path = View/YQCommentCell.m; sourceTree = "<group>"; };
+		23DADA3E1752EE300086C31E /* people.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = people.png; sourceTree = "<group>"; };
+		23DADA3F1752EE300086C31E /* people@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "people@2x.png"; sourceTree = "<group>"; };
+		23DADA431752F13B0086C31E /* YQWriteComment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQWriteComment.h; sourceTree = "<group>"; };
+		23DADA441752F13B0086C31E /* YQWriteComment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQWriteComment.m; sourceTree = "<group>"; };
+		23DADA461752F49A0086C31E /* SZTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SZTextView.h; sourceTree = "<group>"; };
+		23DADA471752F49A0086C31E /* SZTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SZTextView.m; sourceTree = "<group>"; };
+		23DADA491752F7720086C31E /* go-home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "go-home.png"; sourceTree = "<group>"; };
+		23DADA4C1752F9630086C31E /* Head_file.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Head_file.h; sourceTree = "<group>"; };
+		23DADA4D1752FB420086C31E /* comment-add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "comment-add.png"; sourceTree = "<group>"; };
+		23DADA4F175349B70086C31E /* b1bc7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = b1bc7.jpg; sourceTree = "<group>"; };
+		23DADA51175359320086C31E /* prize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prize.png; sourceTree = "<group>"; };
+		23DADA55175394CB0086C31E /* YQHonour.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQHonour.h; sourceTree = "<group>"; };
+		23DADA56175394CB0086C31E /* YQHonour.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQHonour.m; sourceTree = "<group>"; };
+		23DADA581753955A0086C31E /* PhotoStackView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoStackView.h; sourceTree = "<group>"; };
+		23DADA591753955A0086C31E /* PhotoStackView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoStackView.m; sourceTree = "<group>"; };
+		23DADA6E1753A0880086C31E /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		23DADA711753A1780086C31E /* UIScrollView+APParallaxHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+APParallaxHeader.h"; sourceTree = "<group>"; };
+		23DADA721753A1780086C31E /* UIScrollView+APParallaxHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+APParallaxHeader.m"; sourceTree = "<group>"; };
+		425AB96AA0E5498984443F01 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9D678FFF1E54FC0848CC492 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,9 +118,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23DADA6F1753A0880086C31E /* QuartzCore.framework in Frameworks */,
+				235BD04417523DB900ACB2EA /* CoreGraphics.framework in Frameworks */,
 				235BD04017523DB900ACB2EA /* UIKit.framework in Frameworks */,
 				235BD04217523DB900ACB2EA /* Foundation.framework in Frameworks */,
-				235BD04417523DB900ACB2EA /* CoreGraphics.framework in Frameworks */,
+				7BFA3261B30240EEB92E2692 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +135,7 @@
 				235BD04517523DB900ACB2EA /* RedWine1 */,
 				235BD03E17523DB900ACB2EA /* Frameworks */,
 				235BD03D17523DB900ACB2EA /* Products */,
+				A9D678FFF1E54FC0848CC492 /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -73,9 +150,11 @@
 		235BD03E17523DB900ACB2EA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				23DADA6E1753A0880086C31E /* QuartzCore.framework */,
 				235BD03F17523DB900ACB2EA /* UIKit.framework */,
 				235BD04117523DB900ACB2EA /* Foundation.framework */,
 				235BD04317523DB900ACB2EA /* CoreGraphics.framework */,
+				425AB96AA0E5498984443F01 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -83,11 +162,13 @@
 		235BD04517523DB900ACB2EA /* RedWine1 */ = {
 			isa = PBXGroup;
 			children = (
+				23BD231517548B26008EE60A /* Model */,
+				23DADA291752E5BB0086C31E /* ViewController */,
+				235BD06F1752444A00ACB2EA /* View */,
 				235BD04E17523DB900ACB2EA /* YQAppDelegate.h */,
 				235BD04F17523DB900ACB2EA /* YQAppDelegate.m */,
 				235BD05717523DBA00ACB2EA /* MainStoryboard.storyboard */,
-				235BD05A17523DBA00ACB2EA /* YQViewController.h */,
-				235BD05B17523DBA00ACB2EA /* YQViewController.m */,
+				23DADA4C1752F9630086C31E /* Head_file.h */,
 				235BD04617523DB900ACB2EA /* Supporting Files */,
 			);
 			path = RedWine1;
@@ -96,6 +177,7 @@
 		235BD04617523DB900ACB2EA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				235BD06217523F2400ACB2EA /* image */,
 				235BD04717523DB900ACB2EA /* RedWine1-Info.plist */,
 				235BD04817523DB900ACB2EA /* InfoPlist.strings */,
 				235BD04B17523DB900ACB2EA /* main.m */,
@@ -107,6 +189,125 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		235BD06217523F2400ACB2EA /* image */ = {
+			isa = PBXGroup;
+			children = (
+				23DADA51175359320086C31E /* prize.png */,
+				23DADA4F175349B70086C31E /* b1bc7.jpg */,
+				23BD230C17548122008EE60A /* camera.png */,
+				23DADA4D1752FB420086C31E /* comment-add.png */,
+				23DADA3E1752EE300086C31E /* people.png */,
+				23DADA491752F7720086C31E /* go-home.png */,
+				23DADA3F1752EE300086C31E /* people@2x.png */,
+				235BD07717524BBA00ACB2EA /* wine.png */,
+				235BD0731752494F00ACB2EA /* bg_nav.png */,
+				23BD230817547DF1008EE60A /* cell.png */,
+				23BD230917547DF1008EE60A /* cell@2x.png */,
+				235BD0741752494F00ACB2EA /* bg_nav@2x.png */,
+				235BD06317523F2400ACB2EA /* camera_button_take.png */,
+				235BD06417523F2400ACB2EA /* camera_button_take@2x.png */,
+				235BD06517523F2400ACB2EA /* tabBar_cameraButton_ready_matte.png */,
+				235BD06617523F2400ACB2EA /* tabBar_cameraButton_ready_matte@2x.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		235BD06F1752444A00ACB2EA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				23DADA701753A1780086C31E /* APParallaxHeader */,
+				23DADA581753955A0086C31E /* PhotoStackView.h */,
+				23DADA591753955A0086C31E /* PhotoStackView.m */,
+				23DADA461752F49A0086C31E /* SZTextView.h */,
+				23DADA471752F49A0086C31E /* SZTextView.m */,
+				235BD0701752448700ACB2EA /* YQCell.h */,
+				235BD0711752448700ACB2EA /* YQCell.m */,
+				23DADA3B1752EC7C0086C31E /* YQCommentCell.h */,
+				23DADA3C1752EC7C0086C31E /* YQCommentCell.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		23BD231517548B26008EE60A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				23BD231617548B41008EE60A /* Comment.h */,
+				23BD231717548B41008EE60A /* Comment.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		23DADA291752E5BB0086C31E /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				23DADA54175394AF0086C31E /* Honour */,
+				23DADA53175359410086C31E /* YQWineViewController */,
+				23DADA421752F0FE0086C31E /* Comment */,
+				23DADA371752EB600086C31E /* YQSlideViewController */,
+				23DADA361752EB560086C31E /* GGFullScreenImageViewController */,
+				23DADA2A1752E5BB0086C31E /* YQViewController.h */,
+				23DADA2B1752E5BB0086C31E /* YQViewController.m */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		23DADA361752EB560086C31E /* GGFullScreenImageViewController */ = {
+			isa = PBXGroup;
+			children = (
+				23DADA331752EA770086C31E /* GGFullScreenImageViewController.h */,
+				23DADA341752EA770086C31E /* GGFullScreenImageViewController.m */,
+			);
+			name = GGFullScreenImageViewController;
+			sourceTree = "<group>";
+		};
+		23DADA371752EB600086C31E /* YQSlideViewController */ = {
+			isa = PBXGroup;
+			children = (
+				23DADA301752EA6F0086C31E /* YQSlideViewController.h */,
+				23DADA311752EA6F0086C31E /* YQSlideViewController.m */,
+			);
+			name = YQSlideViewController;
+			sourceTree = "<group>";
+		};
+		23DADA421752F0FE0086C31E /* Comment */ = {
+			isa = PBXGroup;
+			children = (
+				23DADA381752EB880086C31E /* YQWineCommentViewController.h */,
+				23DADA391752EB880086C31E /* YQWineCommentViewController.m */,
+				23DADA431752F13B0086C31E /* YQWriteComment.h */,
+				23DADA441752F13B0086C31E /* YQWriteComment.m */,
+			);
+			name = Comment;
+			sourceTree = "<group>";
+		};
+		23DADA53175359410086C31E /* YQWineViewController */ = {
+			isa = PBXGroup;
+			children = (
+				23BD230517545927008EE60A /* YQWine.h */,
+				23BD230617545927008EE60A /* YQWine.m */,
+			);
+			name = YQWineViewController;
+			sourceTree = "<group>";
+		};
+		23DADA54175394AF0086C31E /* Honour */ = {
+			isa = PBXGroup;
+			children = (
+				23DADA55175394CB0086C31E /* YQHonour.h */,
+				23DADA56175394CB0086C31E /* YQHonour.m */,
+			);
+			name = Honour;
+			sourceTree = "<group>";
+		};
+		23DADA701753A1780086C31E /* APParallaxHeader */ = {
+			isa = PBXGroup;
+			children = (
+				23DADA711753A1780086C31E /* UIScrollView+APParallaxHeader.h */,
+				23DADA721753A1780086C31E /* UIScrollView+APParallaxHeader.m */,
+			);
+			name = APParallaxHeader;
+			path = View/APParallaxHeader;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -114,9 +315,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 235BD05F17523DBA00ACB2EA /* Build configuration list for PBXNativeTarget "RedWine1" */;
 			buildPhases = (
+				C5D240A888DE4E358D2A5533 /* Check Pods Manifest.lock */,
 				235BD03817523DB900ACB2EA /* Sources */,
 				235BD03917523DB900ACB2EA /* Frameworks */,
 				235BD03A17523DB900ACB2EA /* Resources */,
+				1E467312D9194F3CA0F672CF /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -164,10 +367,57 @@
 				235BD05417523DB900ACB2EA /* Default@2x.png in Resources */,
 				235BD05617523DBA00ACB2EA /* Default-568h@2x.png in Resources */,
 				235BD05917523DBA00ACB2EA /* MainStoryboard.storyboard in Resources */,
+				235BD06717523F2400ACB2EA /* camera_button_take.png in Resources */,
+				235BD06817523F2400ACB2EA /* camera_button_take@2x.png in Resources */,
+				235BD06917523F2400ACB2EA /* tabBar_cameraButton_ready_matte.png in Resources */,
+				235BD06A17523F2400ACB2EA /* tabBar_cameraButton_ready_matte@2x.png in Resources */,
+				235BD0751752494F00ACB2EA /* bg_nav.png in Resources */,
+				235BD0761752494F00ACB2EA /* bg_nav@2x.png in Resources */,
+				235BD07817524BBA00ACB2EA /* wine.png in Resources */,
+				23DADA401752EE300086C31E /* people.png in Resources */,
+				23DADA411752EE300086C31E /* people@2x.png in Resources */,
+				23DADA4A1752F7720086C31E /* go-home.png in Resources */,
+				23DADA4E1752FB420086C31E /* comment-add.png in Resources */,
+				23DADA50175349B70086C31E /* b1bc7.jpg in Resources */,
+				23DADA52175359320086C31E /* prize.png in Resources */,
+				23BD230A17547DF1008EE60A /* cell.png in Resources */,
+				23BD230B17547DF1008EE60A /* cell@2x.png in Resources */,
+				23BD230D17548122008EE60A /* camera.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1E467312D9194F3CA0F672CF /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+		};
+		C5D240A888DE4E358D2A5533 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		235BD03817523DB900ACB2EA /* Sources */ = {
@@ -176,7 +426,19 @@
 			files = (
 				235BD04C17523DB900ACB2EA /* main.m in Sources */,
 				235BD05017523DB900ACB2EA /* YQAppDelegate.m in Sources */,
-				235BD05C17523DBA00ACB2EA /* YQViewController.m in Sources */,
+				235BD0721752448700ACB2EA /* YQCell.m in Sources */,
+				23DADA2E1752E5BB0086C31E /* YQViewController.m in Sources */,
+				23DADA321752EA6F0086C31E /* YQSlideViewController.m in Sources */,
+				23DADA351752EA770086C31E /* GGFullScreenImageViewController.m in Sources */,
+				23DADA3A1752EB880086C31E /* YQWineCommentViewController.m in Sources */,
+				23DADA3D1752EC7C0086C31E /* YQCommentCell.m in Sources */,
+				23DADA451752F13B0086C31E /* YQWriteComment.m in Sources */,
+				23DADA481752F49A0086C31E /* SZTextView.m in Sources */,
+				23DADA57175394CB0086C31E /* YQHonour.m in Sources */,
+				23DADA5A1753955A0086C31E /* PhotoStackView.m in Sources */,
+				23DADA731753A1780086C31E /* UIScrollView+APParallaxHeader.m in Sources */,
+				23BD230717545927008EE60A /* YQWine.m in Sources */,
+				23BD231817548B41008EE60A /* Comment.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +522,7 @@
 		};
 		235BD06017523DBA00ACB2EA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9D678FFF1E54FC0848CC492 /* Pods.xcconfig */;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RedWine1/RedWine1-Prefix.pch";
@@ -271,6 +534,7 @@
 		};
 		235BD06117523DBA00ACB2EA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9D678FFF1E54FC0848CC492 /* Pods.xcconfig */;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RedWine1/RedWine1-Prefix.pch";
@@ -299,6 +563,7 @@
 				235BD06117523DBA00ACB2EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
